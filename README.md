@@ -1,8 +1,8 @@
-**1. Project Title / Headline**
+**1. Project Title**
 
 **Panic Attack Analysis Dashboard: Visualizing Mental Health Trends**
 
-**2. Short Description / Purpose**
+**2. Purpose**
 
 This Power BI dashboard delivers an insightful analysis of panic attack patterns using real-time data sourced from Snowflake. It visualizes critical metrics such as frequency, duration, triggers, and symptoms, enabling users to interactively explore correlations between emotional states, time of day, and external stressors. The project showcases the integration of cloud-based data warehousing with business intelligence tools to support mental health awareness through data-driven insights.
 

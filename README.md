@@ -1,4 +1,4 @@
-<img width="1502" height="815" alt="image" src="https://github.com/user-attachments/assets/1c4dac97-d337-4a28-b472-1a1373925bac" />1. Project Title / Headline
+**1. Project Title / Headline**
 
 **Panic Attack Analysis Dashboard: Visualizing Mental Health Trends**
 
